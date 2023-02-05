@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Holly Hilliard
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,7 +27,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
+#  - course: PhD in Puppets
 #    institution: Stanford University
 #    year: 2012
 #  - course: MEng in Artificial Intelligence
@@ -66,7 +66,7 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Holly Hilliard is a professor of Puppets at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
