@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Contact Me
 type: landing
 
 sections:
