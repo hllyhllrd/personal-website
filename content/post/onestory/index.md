@@ -9,10 +9,10 @@ subtitle: “One Small Step,” a short story about a high school prom, some chi
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+# date: '2020-12-13T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+# lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -33,12 +33,10 @@ authors:
 
 tags:
   - Short Story
+  - Publications
 
 # categories:
  
 ---
 
-
-# Test
-
-text
+“One Small Step,” a short story about a high school prom, some chickens, and a newborn calf, was published in One Teen Story magazine in April 2014.
