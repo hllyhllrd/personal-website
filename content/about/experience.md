@@ -45,8 +45,8 @@ title: Unofficial Bio
 #    date_end: '2020-12-31'
 #    description: Taught electronic engineering and researched semiconductor physics.
 
-#design:
-#  columns: '1'
+design:
+  columns: '1'
 ---
 I’m Holly Hilliard from Hillsboro, Ohio, and I appreciate alliteration. I also love birds. And cats.
 
