@@ -50,9 +50,7 @@ design:
 ---
 I’m Holly Hilliard from Hillsboro, Ohio, and I appreciate alliteration. I also love birds. And cats.
 
-I grew up in a town of 6,000 or so people in the Appalachian foothills. The cool kids were very into football, but I preferred choir, concert band, and reading books about dragons. One of the coolest things about me was that I knew all the lyrics to “Dani California,” but that was only because my older sister drove me to school every day and wouldn’t let me out of the car until I recited the lyrics perfectly.
-
-While I was in high school, my dad coached basketball and I went to all of the games, but I usually sat in the top row of the bleachers with my mom and read books. I attended Duke University and surprised everyone by choosing to camp out in K-Ville for basketball tickets pretty much every spring. I also led backpacking trips and served as managing editor for the arts section of the Duke Chronicle. I wrote a dystopian young adult novel as my senior thesis, but it’s now buried at the bottom of a metaphorical drawer, where it sometimes calls out to me in the night.
+I grew up in a town of 6,000 or so people in the Appalachian foothills. The cool kids were very into football, but I preferred choir, concert band, and reading books about dragons. I attended Duke University and surprised everyone by choosing to camp out in K-Ville for basketball tickets pretty much every spring. I also led backpacking trips and served as managing editor for the arts section of the Duke Chronicle. I wrote a dystopian young adult novel as my senior thesis, but it’s now buried at the bottom of a metaphorical drawer, where it sometimes calls out to me in the night.
 
 I was an intern at One Story magazine and at Algonquin Books of Chapel Hill before working as an assistant at a literary agency in NYC. I left publishing to work in legal operations, but I couldn’t stay away from the book world for long: in 2019, I graduated with an MFA in Creative Writing from North Carolina State University, where I completed a short story collection and taught fiction workshops for undergrads. 
 
