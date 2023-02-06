@@ -7,6 +7,15 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resumé
+  - name: Bio
     url: about/
     weight: 20
+  - name: Writing 
+    url: writing/
+    weight: 30
+  - name: Editorial Services
+    url: editing/
+    weight: 40
+  - name: Birds
+    url: birding/
+    weight: 50
