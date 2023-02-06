@@ -45,12 +45,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/wowchemy
+ # - icon: instagram
+ #   icon_pack: fab
+ #   link: https://instagram.com/geocushen
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -68,6 +68,5 @@ social:
 
 Holly Hilliard grew up in Hillsboro, Ohio. She received her MFA in Fiction from North Carolina State University, where she was the winner of the 2018 James Hurst Prize for Fiction. She now lives with her husband and two cats in Madison, Wisconsin.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
