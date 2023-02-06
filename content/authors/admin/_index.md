@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a writer based in Madison, Wisconsin.
 
 #interests:
 #- Artificial Intelligence
@@ -66,7 +66,7 @@ social:
 #email: ""
 ---
 
-Holly Hilliard is a professor of Puppets at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Holly Hilliard grew up in Hillsboro, Ohio. She received her MFA in Fiction from North Carolina State University, where she was the winner of the 2018 James Hurst Prize for Fiction. Her work for young adult readers has been published in One Teen Story magazine. She now lives with her husband and two cats in Madison, Wisconsin.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
